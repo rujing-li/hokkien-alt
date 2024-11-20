@@ -1,0 +1,14 @@
+absl-py @ file:///home/conda/feedstock_root/build_artifacts/absl-py_1705494584803/work
+grpcio @ file:///home/conda/feedstock_root/build_artifacts/grpc-split_1729252379906/work
+importlib_metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1726082825846/work
+Markdown @ file:///home/conda/feedstock_root/build_artifacts/markdown_1710435156458/work
+MarkupSafe @ file:///home/conda/feedstock_root/build_artifacts/markupsafe_1729351299924/work
+numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1728239941956/work/dist/numpy-2.1.2-cp313-cp313-linux_x86_64.whl#sha256=7f6b1ca5fb730eb59d41769346a252a4c749f705906051000c58f9740054e649
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1718189413536/work
+protobuf @ file:///home/conda/feedstock_root/build_artifacts/protobuf_1728668316142/work/bazel-bin/python/dist/protobuf-5.28.2-cp313-abi3-linux_x86_64.whl#sha256=dbe6e75a3f9691b6012117450c101145cc3f9efebd9e2961306f32823ba1faef
+setuptools==75.1.0
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+tensorboard @ file:///home/conda/feedstock_root/build_artifacts/tensorboard_1727435705122/work/tensorboard-2.18.0-py3-none-any.whl#sha256=107ca4821745f73e2aefa02c50ff70a9b694f39f790b11e6f682f7d326745eab
+tensorboard_data_server @ file:///home/conda/feedstock_root/build_artifacts/tensorboard-data-server_1728639722190/work/tensorboard_data_server-0.7.0-py3-none-manylinux2014_x86_64.whl#sha256=a78486849806a279612385c6b975de096c5822d0207c1b7c86825b3c77d82690
+Werkzeug @ file:///home/conda/feedstock_root/build_artifacts/werkzeug_1724330738730/work
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1726248574750/work
